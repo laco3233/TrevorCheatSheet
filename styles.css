@@ -11,7 +11,7 @@ header {
  entire @font-face code from there, I only did the source line for this*/
     font-family: "Cheat Sheet", Helvetica, sans-serif;
     /*the background-image is being used as the background for the header, there is nothing here resizing the image so it looks duplicated accross the entire screen*/
-    background-image: url("./TrevorsCheatSheet/Resources/Cheat sheet image.jpg");
+    background-image: url("./TrevorCheatSheet/Resources/Cheat sheet image.jpg");
     /*the text-align is centering the text of the header on the page*/
     text-align: center;
     /*the font-size is used to control the size of the font in the header*/
