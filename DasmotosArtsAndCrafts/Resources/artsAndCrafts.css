@@ -1,0 +1,45 @@
+
+.header h1{
+    position: relative;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color:  khaki;
+    text-align: center;
+}
+
+.header img{
+    position: absolute;
+    height: 120px;
+    width: 100%
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+h3, p{
+    font-family: Helvetica;
+}
+
+p strong{
+    color: blue;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+}
+
+.frames{
+    background-color: lightcoral;
+}
+
+.paint{
+    background-color: skyblue;
+}
