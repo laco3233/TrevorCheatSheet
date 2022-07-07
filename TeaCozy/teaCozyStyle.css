@@ -81,3 +81,39 @@ a{
 .totmimg img{
     height: 200px;;
 }
+
+.location{
+    background-image: url("../TeaCozy/images/img-locations-background.jpg");
+    height: 500px;
+    width: 1200px;
+    position: static;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.address{
+    background-color: black;
+    opacity: 1;
+    width: 300px;
+    height: 300px;
+    margin: 15, 20;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.footer{
+    height: 200px;
+    position: static;
+    width: 100%;
+    margin: 0, 20;
+    text-align: center;
+}
+
+.copyright{
+    text-align: left;
+    width: 100%;
+    margin-left: 20px
+}
